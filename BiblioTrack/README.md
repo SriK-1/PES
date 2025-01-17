@@ -9,4 +9,6 @@ Functionalities:
 Search and display books and students.
 Issue and return books with eligibility checks.
 Calculate penalties for late returns.
-Getting Started: Clone the repository, install Python, and run the main application file to start using BiblioTrack.
+
+Getting Started: 
+Clone the repository, install Python, and run the main application file to start using BiblioTrack.
