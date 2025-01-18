@@ -1,4 +1,4 @@
-BiblioTrack is a Library Management System designed for librarians, featuring a user-friendly GUI made using Tkinter. It manages books, student records, and transaction logs using CSV files, enabling efficient book issuance, returns, and inventory management. It was the result of team effort for a class python hackathon after we just finished learning the basics of python. 
+BiblioTrack is a Library Management System designed for librarians, featuring a user-friendly GUI made using Tkinter. It manages books, student records, and transaction logs using CSV files, enabling efficient book issuance, returns, and inventory management. It is the result of team effort for a class python hackathon after we just finished learning the basics of python. 
 
 Features:
 
